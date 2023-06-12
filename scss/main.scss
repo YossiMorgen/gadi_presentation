@@ -5,7 +5,7 @@ $n:10; /* number of images*/
   --d: 10s; /* duration */
   
   display: grid;
-  width: 300px;
+  width: 270px;
 }
 .gallery > img {
   grid-area: 1/1;
